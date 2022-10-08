@@ -12,7 +12,7 @@ body {
 }
 
 .cabecalho .logo{
-    background: url(../src/images/logo.jpg) center center
+    background: url(/src/images/logo.jpg) center center
     no-repeat;
     width: 85px;
     height: 85px;
